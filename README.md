@@ -1,10 +1,7 @@
 # RNA-Seq Analysis using PyDESeq2, Scanpy, and GSEAPY 🚀
 
-![Figure A: Example Heatmap](heatmap_top10_up_down.png)
-**(A) Sample heatmap showcasing gene expression patterns of top 10 DEGs across samples.**
-
-![Figure B: Example Volcano Plot](FigureB.png)
-**(B) Sample volcano plot illustrating significantly up- and down-regulated genes.**
+![Figure B: Example Volcano Plot](high_quality_volcano_plots.ipynb)
+**Sample volcano plot illustrating significantly up- and down-regulated genes.**
 
 Welcome to this exciting repository! In here, we tackle **RNA-Seq differential expression** using some top-notch Python libraries, including [PyDESeq2](https://pydeseq2.readthedocs.io/), [Scanpy](https://scanpy.readthedocs.io/), and [gseapy](http://gseapy.readthedocs.io/). The goal is to go from raw counts to eye-catching plots and meaningful biological insights. We have used an RNAseq data from one of my published articles [Dash et.al 2023](https://doi.org/10.1093/plphys/kiad465),  Read on for a whirlwind tour of how the pipeline works!
 
