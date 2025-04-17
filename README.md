@@ -1,7 +1,7 @@
 # RNA-Seq Analysis using PyDESeq2, Scanpy, and GSEAPY 🚀
 
-![Figure A: Example Heatmap](FigureA.png)
-**(A) Sample heatmap showcasing gene expression patterns across conditions.**
+![Figure A: Example Heatmap](heatmap_top10_up_down.png)
+**(A) Sample heatmap showcasing gene expression patterns of top 10 DEGs across samples.**
 
 ![Figure B: Example Volcano Plot](FigureB.png)
 **(B) Sample volcano plot illustrating significantly up- and down-regulated genes.**
