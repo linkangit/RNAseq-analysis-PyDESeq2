@@ -1,4 +1,4 @@
-# RNA-Seq Analysis using PyDESeq2, Scanpy, and GSEAPY 🚀
+# RNA-Seq Analysis using PyDESeq2, Scanpy, and GSEAPY
 
 ![Figure A: Example Volcano Plot](volcano.png)
 **(A) Sample volcano plot illustrating significantly up- and down-regulated genes. Inspired from Sanbomics tutorials.**
